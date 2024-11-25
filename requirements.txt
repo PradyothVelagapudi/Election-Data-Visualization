@@ -1,0 +1,4 @@
+geodatasets==2024.8.0
+geopandas==1.0.1
+matplotlib==3.9.2
+pandas==2.2.3
